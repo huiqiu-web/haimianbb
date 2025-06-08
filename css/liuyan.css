@@ -1,0 +1,65 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.f1 {
+  width: 1200px;
+  height: 150px;
+  background: url(../images/logo.jpg) no-repeat;
+}
+.f1 p {
+  float: right;
+  margin: 10px;
+  color: #134373;
+}
+.fa {
+  width: 1100px;
+  color: aliceblue;
+}
+ul {
+  list-style: none;
+}
+ul a {
+  display: block;
+  width: 220px;
+  line-height: 60px;
+  text-align: center;
+  color: aliceblue;
+  float: left;
+  text-decoration: none;
+  font-size: 19px;
+  background-color: #134373;
+}
+ul a:hover {
+  background-color: #ccd3d8;
+  color: #134373;
+}
+form {
+  margin-top: 0.5px;
+  padding-top: 25px;
+  padding-left: 250px;
+  width: 800px;
+  height: 400px;
+  background-color: #134373;
+  line-height: 50px;
+  text-align: left;
+}
+form a {
+  color: #ccd3d8;
+}
+h1 {
+  margin-top: 65px;
+  text-align: center;
+  font-family: "华文彩云";
+  font-size: 40px;
+  color: rgba(255, 255, 255, 60%);
+}
+.f2 {
+  margin: auto;
+  margin-top: 20px;
+  background-color: #134373;
+  line-height: 40px;
+  width: 1100px;
+  text-align: center;
+}

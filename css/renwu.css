@@ -1,0 +1,56 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.f1 {
+  width: 1200px;
+  height: 150px;
+  background: url(../images/logo.jpg) no-repeat;
+}
+.f1 p {
+  float: right;
+  margin: 10px;
+  color: #134373;
+}
+.fa {
+  width: 1100px;
+
+  color: aliceblue;
+}
+ul {
+  list-style: none;
+}
+ul a {
+  display: block;
+  width: 220px;
+  line-height: 60px;
+  text-align: center;
+  color: aliceblue;
+  float: left;
+  text-decoration: none;
+  font-size: 19px;
+  background-color: #134373;
+}
+ul a:hover {
+  background-color: #ccd3d8;
+  color: #134373;
+}
+.fa-1 {
+  width: 1100px;
+  height: 650px;
+  padding-left: 100px;
+}
+.fa-1 img {
+  transition: all 1s;
+}
+.fa-1 img:hover {
+  transform: scale(1.2);
+}
+.f2 {
+  float: left;
+  background-color: #134373;
+  line-height: 40px;
+  width: 100%;
+  text-align: center;
+}
